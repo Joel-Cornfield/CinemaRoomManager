@@ -1,5 +1,5 @@
 # CinemaRoomManager
-This is my *Coffee Machine Simulator*
+This is my *Cinema Room Manager*
 
 You can find the original project description and tasks on [Hyperskill](https://hyperskill.org/projects/133?track=8).
 
